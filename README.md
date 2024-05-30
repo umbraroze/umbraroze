@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @umbraroze
-- 🌱 I’m currently learning C# (primarily on desktop) and Python
-- 📫 How to reach me: [email probably](mailto:wwwwolf@iki.fi)
+- 👋 Hi, I’m @umbraroze (a.k.a. Rose Midford; boringname: Urpo Lankinen)
+- Just a random developer from Finland. (Motto: Be Weird, Do Code)
+- 🖥️ Primary languages right now: Ruby, Python, PowerShell
+- 🌱 I’m currently learning C# (primarily on desktop), Elixir, Erlang, JavaScript
+- 📧 How to reach me: [email probably](mailto:wwwwolf@iki.fi)
 <!--
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
