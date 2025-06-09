@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @umbraroze (a.k.a. Rose Midford; boringname: Urpo Lankinen)
 - Just a random developer from Finland. (Motto: Be Weird, Do Code)
-- 🖥️ Primary languages right now: Ruby, Python, PowerShell
-- 🌱 I’m currently learning C# (primarily on desktop), Elixir, Erlang, JavaScript
+- 🖥️ Primary languages right now: 💎 Ruby, 🐍 Python
+- Other languages: PowerShell
+- 🌱 I’m currently learning 🦀 Rust, C# (primarily on desktop), ☎️ Erlang
+- ...also maybe even JavaScript, TypeScript, Elixir?
 - 🌐 [Development website](https://umbraroze.github.io/) for general info on projects
 - ↔️ [Codeberg](https://codeberg.org/umbraroze) for rad hax and other janky junk from ages past!
 - 📧 How to reach me: [email probably](mailto:wwwwolf@iki.fi)
