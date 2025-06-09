@@ -4,6 +4,7 @@
 - Other languages: PowerShell
 - 🌱 I’m currently learning 🦀 Rust, C# (primarily on desktop), ☎️ Erlang
 - ...also maybe even JavaScript, TypeScript, Elixir?
+- ...used to be fairly okay at Processing, now learning Godot
 - 🌐 [Development website](https://umbraroze.github.io/) for general info on projects
 - ↔️ [Codeberg](https://codeberg.org/umbraroze) for rad hax and other janky junk from ages past!
 - 📧 How to reach me: [email probably](mailto:wwwwolf@iki.fi)
