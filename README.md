@@ -3,16 +3,18 @@
 - 🖥️ Primary languages right now:
   - 🐍 Python
   - 💎 Ruby
+  - ☕ Java
 - 🌱 Languages I’m currently learning:
-  - 🦀 Rust
+  - ➡️ Kotlin
   - ☎️ Erlang
+  - 🦀 Rust
   - 👓 C#
 - Comfortable with 🐢 shell programming. Have used ⚡ PowerShell too.
 - 📺 For bedazzling multimedia:
   - I used to be fairly okay at 🏭 Processing
   - Now learning 🤖 Godot
 - Other languages:
-  - Fairly okay at 🏛️ C and ☕ Java.
+  - Fairly okay at 🏛️ C.
   - Can code in 🖼️ C++ but don't ask me to do anything fancy.
   - Maybe learning JavaScript, TypeScript, Elixir?
 - Probably not so good right now:
